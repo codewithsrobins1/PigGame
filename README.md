@@ -8,7 +8,7 @@ GAME RULES: - The game has 2 players, playing in rounds - In each turn, a player
 
 ## Screenshot
 
-![photo-of-game]()
+![photo-of-game](https://github.com/codewithsrobins1/PigGame/blob/master/readmeImg.PNG?raw=true)
 
 ## Built With
 
